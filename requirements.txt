@@ -1,0 +1,9 @@
+pandas==3.0.1
+pyarrow==23.0.1
+numpy==2.4.3
+openpyxl==3.1.5
+datetime==6.0
+clickhouse-connect==0.14.1
+XlsxWriter==3.2.9
+python-dotenv==1.2.2
+teradatasql==20.0.0.54
